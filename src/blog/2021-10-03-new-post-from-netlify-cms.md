@@ -5,6 +5,7 @@ author: said ramadhan
 date: 2021-10-03T02:20:57.315Z
 tags:
   - featured
+  - post
 image: /assets/blog/1.jpeg
 imageAlt: imgAlt
 ---
